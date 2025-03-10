@@ -124,3 +124,6 @@ Run:
 6. [GitHub Copilot MS Learn Modules](https://learn.microsoft.com/en-us/training/browse/?terms=github%20copilot)
 
 7. [GitHub Copilot Certifications](https://resources.github.com/learn/certifications/)
+
+8. 
+7. [GitHub Copilot Certifications](https://resources.github.com/learn/certifications/)
